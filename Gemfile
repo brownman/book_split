@@ -3,7 +3,9 @@ gem 'rails', '3.0.9'
 gem 'gravatar_image_tag', '1.0.0.pre2'
 gem 'will_paginate', '3.0.pre2'
 gem 'sqlite3', '1.3.3'
-
+#gem 'wordnet'
+gem 'rmagick'
+gem 'rwordnet'
 #gem 'ffi' , '1.0.9'
 group :development do
   gem 'rspec-rails', '2.6.1'
